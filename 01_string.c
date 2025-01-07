@@ -1,3 +1,5 @@
+// qyestion - https://codeforces.com/problemset/problem/71/A
+
 #include <stdio.h>
 #include <string.h>
 int main()
