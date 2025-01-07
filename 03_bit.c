@@ -1,4 +1,4 @@
-//https://codeforces.com/problemset/problem/282/A
+//Question - https://codeforces.com/problemset/problem/282/A
 
 #include <stdio.h>
 #include <string.h>
