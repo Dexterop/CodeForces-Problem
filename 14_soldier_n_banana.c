@@ -1,3 +1,5 @@
+// ques - "https://codeforces.com/contest/546/problem/A"
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
