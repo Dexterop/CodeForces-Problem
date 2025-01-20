@@ -1,3 +1,5 @@
+// ques - https://codeforces.com/problemset/problem/271/A
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
